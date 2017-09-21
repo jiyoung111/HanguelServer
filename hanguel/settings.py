@@ -78,10 +78,10 @@ WSGI_APPLICATION = 'hanguel.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'hanguel',
-        'USER': 'root',
+        'NAME': 'jiyoungwon$hanguel',
+        'USER': 'jiyoungwon',
         'PASSWORD': 'jiyoung928',
-        'HOST': '54.85.21.154',
+        'HOST': 'jiyoungwon.mysql.pythonanywhere-services.com',
         'PORT': '3306',
     }
 }
