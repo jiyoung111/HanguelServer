@@ -143,10 +143,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="180" />
-    <option name="y" value="166" />
+    <option name="x" value="511" />
+    <option name="y" value="132" />
     <option name="width" value="1400" />
-    <option name="height" value="897" />
+    <option name="height" value="757" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -227,6 +227,14 @@
       <option name="presentableId" value="Default" />
       <updated>1505995539106</updated>
     </task>
+    <task id="LOCAL-00001" summary="update hanguel server init">
+      <created>1506261263333</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1506261263333</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -255,6 +263,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update hanguel server init" />
+    <option name="LAST_COMMIT_MESSAGE" value="update hanguel server init" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
